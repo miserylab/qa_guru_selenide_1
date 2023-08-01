@@ -1,4 +1,4 @@
-package com.herokuapp;
+package herokuapp.com;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.DragAndDropOptions;
